@@ -1,0 +1,51 @@
+{
+  "CRISP-r_Valuation": {
+    "TotalScore": 1184,
+    "ScoreBreakdown": {
+      "Innovation": 282,
+      "Modularity": 215,
+      "Scalability": 228,
+      "MarketValue": 260,
+      "Integrity": 199
+    },
+    "EstimatedMarketValueUSD": 18400,
+    "ScoreRange": "300\u20131313"
+  },
+  "RevenueForecast6Months": {
+    "PersonalTier": {
+      "Buyers": "150\u2013250",
+      "Price": 249,
+      "RevenueRange": [
+        37350,
+        62250
+      ]
+    },
+    "SmallBusinessTier": {
+      "Buyers": "20\u201340",
+      "Price": 1250,
+      "RevenueRange": [
+        25000,
+        50000
+      ]
+    },
+    "EnterpriseTier": {
+      "Buyers": "2\u20135",
+      "Price": 4900,
+      "RevenueRange": [
+        9800,
+        24500
+      ]
+    },
+    "TotalRange": [
+      72150,
+      136750
+    ]
+  },
+  "ProbabilityMatrix": {
+    "BreakEvenOver25k": "94.2%",
+    "ModestProfit50kto75k": "82.7%",
+    "MajorSuccess100kPlus": "69.4%",
+    "Underperformance10kto25k": "4.9%",
+    "FailureUnder10k": "0.9%"
+  }
+}
